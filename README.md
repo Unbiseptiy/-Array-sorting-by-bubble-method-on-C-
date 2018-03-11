@@ -1,4 +1,4 @@
-# Array sorting by bubble method on C#
+# Array-sorting
 class Program{
         static void Main(string[] args) {
             Console.Write("Введите количество чисел: ");
